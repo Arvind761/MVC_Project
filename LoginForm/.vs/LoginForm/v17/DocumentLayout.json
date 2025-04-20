@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@2025\\MVC Project\\LoginForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|d:\\@2025\\mvc project\\loginform\\loginform\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|d:\\@2025\\mvc project\\loginform\\loginform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|d:\\@2025\\mvc project\\loginform\\loginform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|d:\\@2025\\mvc project\\loginform\\loginform\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|d:\\@2025\\mvc project\\loginform\\loginform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|d:\\@2025\\mvc project\\loginform\\loginform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB7862E-5836-43F6-B731-0DD5238BC70C}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginForm\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginForm\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T18:43:53.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginForm\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginForm\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T18:21:46.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginForm\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:21:13.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginForm\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "LoginForm\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T17:29:58.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LoginForm\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T17:29:44.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Models\\User.cs",
+              "ToolTip": "D:\\@2025\\MVC Project\\LoginForm\\LoginForm\\Models\\User.cs",
+              "RelativeToolTip": "LoginForm\\Models\\User.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T17:25:17.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

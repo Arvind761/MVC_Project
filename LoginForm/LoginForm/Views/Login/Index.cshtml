@@ -1,0 +1,36 @@
+﻿@model LoginForm.Models.User
+@{
+    ViewBag.Title = "Index";
+}
+
+<!-- Page Heading -->
+
+
+<!-- Fullscreen Centered Container -->
+<div class="d-flex justify-content-center align-items-center" >
+    <div class="col-md-3 mt-5 border border-dark p-4 rounded">
+        <h2 class="text-center mb-4">Login</h2>
+        <div style="border-width: 5px !important;">
+            @using (Html.BeginForm("Index", "Login", FormMethod.Post))
+            {
+                <div class="mb-3">
+                    @Html.LabelFor(model => model.username)
+                    @Html.TextBoxFor(model => model.username, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.username, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="mb-3">
+                    @Html.LabelFor(model => model.password)
+                    @Html.PasswordFor(model => model.password, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+                    <div class="text-danger">@ViewBag.ErrorMessage</div>
+                </div>
+
+                <div class="d-flex mb-3">
+                    <input type="submit" value="Login" name="login" class="btn btn-info" />
+                    <a href="/Login/Reset" class="btn btn-secondary ms-2">Reset</a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
